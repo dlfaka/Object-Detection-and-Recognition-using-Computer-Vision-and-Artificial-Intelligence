@@ -1,0 +1,6 @@
+Must install this in python terminal
+
+pip install tensorflow==1.13.1
+pip install opencv-python
+pip install imageai
+pip install keras
